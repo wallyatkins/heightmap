@@ -1,0 +1,14 @@
+{
+  "name": "heightmap",
+  "version": "1.0.0",
+  "description": "returns a heightmap given a coordinate pair",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wally Atkins",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
